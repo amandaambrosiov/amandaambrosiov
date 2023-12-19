@@ -17,4 +17,4 @@
 <br>
 <hr>
 <h3>Acesse meu linkedin 💙</h3>
-<a href="https://www.linkedin.com/in/amanda-ambrosio-a8316a2a4/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/amanda-ambrosio-a8316a2a4/" target="_blank" rel="noopener noreferrer"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
