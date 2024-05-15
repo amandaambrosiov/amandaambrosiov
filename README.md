@@ -1,16 +1,13 @@
-<h1> Olá, eu sou a Amanda Ambrosio! 👋🏻</h1>
-<h3>Desenvolvedora e Web Designer 💻</h3>
-<h1>🖥️ Habilidades</h1>
-<div>
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-  <br><br>
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="adobe-ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-</div>
+<h1> Oii! Eu sou a Amanda Ambrosio, Desenvolvedora e Designer 🖥️</h1>
+<p>Cursando Análise e Desenvolvimento de Sistemas.</p>
+<h3>Minhas skills:</h1>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,ai,figma" />
+</a>
+<h3>Estudando no momento:</h1>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,c" />
+</a>
 <br>
-<hr>
-<h3>Acesse meu linkedin 💙</h3>
+<h2>Acessem meu linkedin 💙</h3>
 <a href="https://www.linkedin.com/in/amanda-ambrosio-a8316a2a4/" target="_blank" rel="noopener noreferrer"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
