@@ -2,7 +2,7 @@
 <p>Cursando Análise e Desenvolvimento de Sistemas.</p>
 <h3>Minhas skills:</h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,ai,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
 </a>
 <h3>Estudando no momento:</h1>
 <a href="https://skillicons.dev">
