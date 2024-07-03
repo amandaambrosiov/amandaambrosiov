@@ -6,7 +6,7 @@
 </a>
 <h3>Estudando no momento:</h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,c,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
 </a>
 <br>
 <h2>Acessem meu linkedin 💙</h3>
