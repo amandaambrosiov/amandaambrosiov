@@ -5,8 +5,8 @@ Sou técnica em TI e cursando Análise e Desenvolvimento de Sistemas, com experi
 ##
 
 <div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaambrosiov&show_icons=true&theme=dracula">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaambrosiov&layout=compact&theme=dracula">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaambrosiov&show_icons=true&theme=dracula&rank_icon=github&hide=issues">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaambrosiov&theme=dracula&hide_progress=true">
 </div>
 
 ## Tecnologias e Ferramentas
