@@ -1,13 +1,22 @@
-<h1> Oii! Eu sou a Amanda Ambrosio, Desenvolvedora e Designer 🖥️</h1>
-<p>Cursando Análise e Desenvolvimento de Sistemas.</p>
-<h3>Minhas skills:</h1>
+# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30rem"> Olá devs! Eu sou Amanda Ambrosio
+
+Sou técnica em TI e cursando Análise e Desenvolvimento de Sistemas, com experiência em diversas áreas, incluindo desenvolvimento de software, suporte técnico e web design.
+
+##
+
+<div>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaambrosiov&show_icons=true&theme=dracula">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaambrosiov&layout=compact&theme=dracula">
+</div>
+
+## Tecnologias e Ferramentas
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,bootstrap,tailwind" />
 </a>
-<h3>Estudando no momento:</h1>
+
+## Estudando
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,docker" />
 </a>
-<br>
-<h2>Acessem meu linkedin 💙</h3>
-<a href="https://www.linkedin.com/in/amanda-ambrosio-a8316a2a4/" target="_blank" rel="noopener noreferrer"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
