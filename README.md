@@ -12,11 +12,11 @@ Sou técnica em TI e cursando Análise e Desenvolvimento de Sistemas, com experi
 ## Tecnologias e Ferramentas
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,bootstrap,tailwind,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,docker" />
 </a>
 
 ## Estudando
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vite,php" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,php" />
 </a>
