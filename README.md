@@ -18,5 +18,5 @@ Sou técnica em TI e cursando Análise e Desenvolvimento de Sistemas, com experi
 ## Estudando
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,php,docker" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,php,docker,laravel" />
 </a>
