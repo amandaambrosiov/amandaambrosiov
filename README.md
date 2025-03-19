@@ -1,22 +1,29 @@
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30rem"> Olá devs! Eu sou Amanda Ambrosio
+#  💻 Olá, Devs! Amanda Ambrosio
 
-Sou técnica em TI e cursando Análise e Desenvolvimento de Sistemas, com experiência em diversas áreas, incluindo desenvolvimento de software, suporte técnico e web design.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-##
+<p align="left">Sou Técnica em TI e estudante de Análise e Desenvolvimento de Sistemas. Atuo como <strong style="color:purple;">Desenvolvedora Web</strong> e uso o GitHub para compartilhar meus projetos.</p>
 
-<div>
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaambrosiov&show_icons=true&theme=dracula&rank_icon=github&hide=issues">
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaambrosiov&theme=dracula&hide_progress=true">
-</div>
 
-## Tecnologias e Ferramentas
-
+### 🛠️ Languages and Technologies
+  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,docker" />
 </a>
 
-## Estudando
+
+  
+### 📚 Currently studying
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,php,docker,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,php,laravel,docker" />
 </a>
+
+
+
+### 📊 Github Stats
+
+<div>
+  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaambrosiov&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues">
+  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaambrosiov&theme=tokyonight&hide_progress=true&show_icons=true">
+</div>
