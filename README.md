@@ -8,7 +8,7 @@
 ### 🛠️ Languages and Technologies
   
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,docker" />
+  <img src="https://skillicons.dev/icons?i=js,bootstrap,php,laravel,docker,git" />
 </a>
 
 
@@ -16,7 +16,7 @@
 ### 📚 Currently studying
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,php,laravel,docker" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </a>
 
 
