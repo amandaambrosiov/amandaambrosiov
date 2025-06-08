@@ -1,8 +1,8 @@
-#  💻 Olá, Devs! Sou Amanda Ambrosio
+#  💻 Hi, Devs! I'm Amanda Ambrosio
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">Sou Técnica em TI e estudante de Análise e Desenvolvimento de Sistemas. Atuo como <strong style="color:purple;">Desenvolvedora Web</strong> e uso o GitHub para compartilhar meus projetos.</p>
+<p align="left">I'm a Web Developer and currently studying Systems Analysis and Development. Feel free to check out my projects!</p>
 
 
 ### 🛠️ Languages and Technologies
