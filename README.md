@@ -22,9 +22,9 @@ I’m always eager to learn new technologies and apply best coding practices to 
 </a>  
 
 ### 📚 Currently Studying  
-- **Laravel** ecosystem (Eloquent ORM, PHPUnit, API with Swagger)
-- **UX/UI Design** practices with Figma
-- **React** and modern frontend development  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</a>  
 
 ### 📊 Github Stats
 
