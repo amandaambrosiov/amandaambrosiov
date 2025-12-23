@@ -2,7 +2,7 @@
 
 #  Hi, Devs! I'm Amanda Ambrosio
 
-<p>I'm a Web Developer currently studying Systems Analysis and Development.
+<p>I'm a Developer currently studying Systems Analysis and Development.
 I’m always eager to learn new technologies and apply best coding practices to create creative and functional solutions. </p>
 <p>Feel free to explore my projects and follow my journey. 🚀</p>
 
