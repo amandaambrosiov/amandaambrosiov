@@ -23,12 +23,6 @@ I’m always eager to learn new technologies and apply best coding practices to 
 
 ### 📚 Currently Studying  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django" />
+  <img src="https://skillicons.dev/icons?i=python,django,vue" />
 </a>  
 
-### 📊 Github Stats
-
-<div>
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaambrosiov&show_icons=true&theme=radical&rank_icon=github&hide=issues">
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaambrosiov&theme=radical&hide_progress=true&show_icons=true">
-</div>
